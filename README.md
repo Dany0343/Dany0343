@@ -3,7 +3,7 @@
 - 🐱‍💻 I'm currently studying Computer Systems Engineering at ESCOM IPN
 - 🌱 I’m currently learning web and python
 - 📫 website: obucio.casa
-      Linkedin: https://www.linkedin.com/in/oscarbucio/
+Linkedin: https://www.linkedin.com/in/oscarbucio/
 
 <!---
 Dany0343/Dany0343 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

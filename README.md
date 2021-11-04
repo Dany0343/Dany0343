@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dany0343
-- 👀 I’m interested in Web, Python and Data Science.
+- 👀 I’m interested in Web, Mobile, Python and Data Science.
 - 🐱‍💻 I'm currently studying Computer Systems Engineering at ESCOM IPN
 - 🌱 I’m currently learning web and python
 - 📫 website: obucio.casa

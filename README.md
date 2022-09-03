@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dany0343</h1>
 <h3 align="center">A passionate Computer Systems Engineering Student @ESCOM-IPN</h3>
 
-- 🌱 I’m currently learning **React, Django and Nodejs**
+- 👀 I’m currently learning **React, Django and Nodejs**
 
 - 👯 I’m looking to collaborate on **Web projects, AI projects and Open Source projects**
 

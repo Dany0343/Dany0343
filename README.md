@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **oscarbucio2001@gmail.com**
 
-- 📄 Know about my experiences [bit.ly/3elHPoo](bit.ly/3elHPoo)
+- 📄 Know about my experiences [https://bit.ly/3elHPoo](https://bit.ly/3elHPoo)
 
 - ⚡ Fun fact **I love internet culture and memes**
 

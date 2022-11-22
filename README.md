@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👀, I'm Oscar Bucio</h1>
-<h3 align="center">A passionate Computer Systems Engineering Student <a href="https://www.escom.ipn.mx/" target="blank">@ESCOM-IPN</a></h3>
+<h3 align="center">A passionate Computer Systems Engineering Student <a href="https://www.escom.ipn.mx/" target="_blank">@ESCOM-IPN</a></h3>
 
 - 👀 I’m currently learning **React, Algorithms, Java and Python**
 
 - 👯 I’m looking to collaborate on **Web projects, AI projects and Open Source projects**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/Dany0343" target="blank"> Github </a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Dany0343" target="_blank"> Github </a>
 
 - 📫 How to reach me **oscarbucio2001@gmail.com**
 
-- 📄 Know about my experiences: <a href="https://bit.ly/3elHPoo" target="blank"> Resume </a>
+- 📄 Know about my experiences: <a href="https://bit.ly/3elHPoo" target="_blank"> Resume </a>
 
 - ⚡ Fun fact **I love internet culture and memes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bucio0301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bucio0301" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/oscarbucio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oscarbucio/" height="30" width="40" /></a>
-<a href="https://fb.com/oscarbucio2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oscarbucio2001/" height="30" width="40" /></a>
-<a href="https://instagram.com/analog.js/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="analog.js/" height="30" width="40" /></a>
+<a href="https://twitter.com/bucio0301" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bucio0301" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oscarbucio/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oscarbucio/" height="30" width="40" /></a>
+<a href="https://fb.com/oscarbucio2001/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oscarbucio2001/" height="30" width="40" /></a>
+<a href="https://instagram.com/analog.js/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="analog.js/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

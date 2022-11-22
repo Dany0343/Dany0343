@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👀, I'm Oscar Bucio</h1>
-<h3 align="center">A passionate Computer Systems Engineering Student <a href="https://www.escom.ipn.mx/">@ESCOM-IPN</a></h3>
+<h3 align="center">A passionate Computer Systems Engineering Student <a href="https://www.escom.ipn.mx/" target="blank">@ESCOM-IPN</a></h3>
 
 - 👀 I’m currently learning **React, Algorithms, Java and Python**
 

@@ -5,11 +5,11 @@
 
 - 👯 I’m looking to collaborate on **Web projects, AI projects and Open Source projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dany0343](https://github.com/Dany0343)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Dany0343" target="blank"> Github </a>
 
 - 📫 How to reach me **oscarbucio2001@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3elHPoo](https://bit.ly/3elHPoo)
+- 📄 Know about my experiences: <a href="https://bit.ly/3elHPoo" target="blank"> Resume </a>
 
 - ⚡ Fun fact **I love internet culture and memes**
 

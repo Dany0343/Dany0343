@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👀, I'm Oscar Bucio</h1>
 <h3 align="center">A passionate Computer Systems Engineering Student <a href="https://www.escom.ipn.mx/" target="_blank" rel="noopener noreferrer">@ESCOM-IPN</a></h3>
 
-- 👀 I’m currently learning **React, Algorithms, and Java**
+- 👀 I’m currently learning **React, Algorithms, Java and Rust**
 
 - 👯 I’m looking to collaborate on **Web projects, AI projects and Open Source projects**
 

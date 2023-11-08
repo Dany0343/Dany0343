@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Nextjs and Algorithms**
 
-- 👯 I’m looking to collaborate on **Web projects, Data and AI projects and Open Source projects**
+- 👯 I’m looking to collaborate on **Web projects, Data - AI projects and Open Source projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dany0343](https://github.com/Dany0343)
 

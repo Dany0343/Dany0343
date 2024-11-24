@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dany0343</h1>
 <h3 align="center">A Passionate Computer Systems Engineering Student @ESCOM-IPN</h3>
 
-- 🌱 I’m currently learning **Golang and Algorithms**
+- 🌱 I’m currently learning **Golang, C# (.NET) and Algorithms**
 
 - 👯 I’m looking to collaborate on **Web projects, Data - AI projects and Open Source projects**
 
